@@ -9,7 +9,7 @@
 
 IHCI 2020 Authentication of Facial Images with Masks using Periocular Biometrics  (☞ﾟヮﾟ)☞ [논문 보러가기](https://drive.google.com/file/d/1ZDcSeAH8MFasMhfSBDxEkAQ5hlBS-tnD/view?usp=sharing)
 
-**Han, N. Y.**, Seong, S. W., Ryu, J., Hwang, H., Joung, J., Lee, J., & Lee, E. C. (2020, November). Authentication of Facial Images with Masks Using Periocular Biometrics. In International Conference on Intelligent Human Computer Interaction (pp. 326-334). Springer, Cham.
+Han, N. Y., Seong, S. W., Ryu, J., Hwang, H., Joung, J., Lee, J., & Lee, E. C. (2020, November). Authentication of Facial Images with Masks Using Periocular Biometrics. In International Conference on Intelligent Human Computer Interaction (pp. 326-334). Springer, Cham.
 
 
 |                 한나연               |                 성시원                |              류지혜               |
