@@ -27,7 +27,7 @@ Han, N. Y., Seong, S. W., Ryu, J., Hwang, H., Joung, J., Lee, J., & Lee, E. C. (
 3. [Full-face dataset generator.ipynb](https://github.com/HanNayeoniee/Masked-Face-Authentication/blob/master/Full-face%20dataset%20generator.ipynb) : 얼굴 이미지 전처리
 
 4. [Siamese-networks_training.ipynb](https://github.com/HanNayeoniee/Masked-Face-Authentication/blob/master/Siamese-networks_training.ipynb)
-
+(update)  
 5. [Siamese-networks_testing.ipynb](https://github.com/HanNayeoniee/Masked-Face-Authentication/blob/master/Siamese-networks_testing.ipynb)
 
 
@@ -53,10 +53,6 @@ Test dataset은 19명의 이미지로 구성되며, 이 중 4명은 train datase
 마스크 착용한 사진을 사람별로 6장씩 50명, 총 300장의 얼굴 이미지를 수집함
 
 마스크를 코끝까지 올려 완전히 착용한 경우, 코끝이 보이도록 착용한 경우 2가지 case를 3가지 각도(정면, 위, 아래)에서 촬영함
-
-<img src="https://user-images.githubusercontent.com/33839093/92573827-48127300-f2c1-11ea-861c-4d932eff0131.PNG" width=60%>
-
-<img src="https://user-images.githubusercontent.com/33839093/92573835-49dc3680-f2c1-11ea-86df-4af74e258a2c.PNG" width=60%>
 
 
 ## Pre-processing
